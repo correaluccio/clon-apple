@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/clon-apple/static/css/main.aa927af6.css",
+    "main.js": "/clon-apple/static/js/main.73aca6bc.js",
+    "static/media/iphone13prohero.png": "/clon-apple/static/media/iphone13prohero.ac2061dac57b333f9817.png",
+    "static/media/iphone13_hero.png": "/clon-apple/static/media/iphone13_hero.8ed0eb832d3f4406b0f9.png",
+    "static/media/ios16.jpg": "/clon-apple/static/media/ios16.e6e95b3fc45cc5895908.jpg",
+    "static/media/magsafe.jpg": "/clon-apple/static/media/magsafe.e7ff39f078b61c822094.jpg",
+    "static/media/iphone13caracteristicas.jpg": "/clon-apple/static/media/iphone13caracteristicas.6fc65d24bd7cdfc652d1.jpg",
+    "static/media/iphone12caracteristicas.jpg": "/clon-apple/static/media/iphone12caracteristicas.59761d92601dd2fce3f0.jpg",
+    "static/media/iphone13comuncaracteristicas.jpg": "/clon-apple/static/media/iphone13comuncaracteristicas.2f8de61c4d43d8c1c262.jpg",
+    "static/media/iphonesecaracteristicas.jpg": "/clon-apple/static/media/iphonesecaracteristicas.83f9861fc1d6b4d194f9.jpg",
+    "static/media/shopiphone.svg": "/clon-apple/static/media/shopiphone.1b3f6ef23e5b31231361470278eeb929.svg",
+    "static/media/iphone13pro.svg": "/clon-apple/static/media/iphone13pro.7c3a65ada1d1c5fae243b7bfe915c3bd.svg",
+    "static/media/iphone13.svg": "/clon-apple/static/media/iphone13.eb270bd4d0a4877f2dadca2a0a32415b.svg",
+    "static/media/ios.svg": "/clon-apple/static/media/ios.81645761dedd10865b0da1efa778d176.svg",
+    "static/media/iphone12.svg": "/clon-apple/static/media/iphone12.058a42759b6c0571d3b9e233c762b2f9.svg",
+    "static/media/airpods.svg": "/clon-apple/static/media/airpods.6e1421227e3a0dfdde391ae1d551cf2d.svg",
+    "static/media/case.svg": "/clon-apple/static/media/case.1ce3196cee1325caf9193a93b0a3f843.svg",
+    "static/media/tag.svg": "/clon-apple/static/media/tag.2816e4f22e2d1a5273eddaf21a821c7c.svg",
+    "static/media/compare.svg": "/clon-apple/static/media/compare.68db5d7c79a2f745e3e26e75bed0bb93.svg",
+    "static/media/card.svg": "/clon-apple/static/media/card.e9879eb73fab6f66aa2865362795bcb2.svg",
+    "index.html": "/clon-apple/index.html",
+    "static/media/iphone11.svg": "/clon-apple/static/media/iphone11.0563a5f0b28ea81348d74734f3a45aaa.svg",
+    "static/media/iphonese.svg": "/clon-apple/static/media/iphonese.77a82e8371242d9aa312d30a394b458b.svg",
+    "main.aa927af6.css.map": "/clon-apple/static/css/main.aa927af6.css.map",
+    "main.73aca6bc.js.map": "/clon-apple/static/js/main.73aca6bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa927af6.css",
+    "static/js/main.73aca6bc.js"
+  ]
+}
